@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ufo-curiosity-git-main-dflyman60-2565s-projects.vercel.app/sitemap.xml
